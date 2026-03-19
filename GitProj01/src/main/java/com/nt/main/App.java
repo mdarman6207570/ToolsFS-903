@@ -10,6 +10,7 @@ public class App {
        App app = new App();
        System.out.println("it's me DEVIL from TL");
        //how are u
+       //mksd sixxer
        System.out.println("sum is  ::+"+app.sum(10,20));
     }
 }
