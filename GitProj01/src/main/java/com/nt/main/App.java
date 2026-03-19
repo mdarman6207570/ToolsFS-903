@@ -8,9 +8,10 @@ public class App {
 	}
     public static void main(String[] args) {
        App app = new App();
+       System.out.println("Hello from dev1");
        System.out.println("it's me DEVIL from TL");
        //how are u
-       //mksd sixxer
+       //mksd sixxerr
        System.out.println("sum is  ::+"+app.sum(10,20));
     }
 }
